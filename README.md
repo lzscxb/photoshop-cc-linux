@@ -28,7 +28,7 @@ yay -S zenity
 cd photoshop_cc2017_linux_2022-01-01
 ./setup.sh
 ```
-安装提示饥即可完成安装
+安装提示即可完成安装
 
 ## 方式二
 手动安装
